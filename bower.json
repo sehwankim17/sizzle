@@ -1,4 +1,7 @@
 {
+	
+	
+	
   "name": "sizzle",
   "main": "./dist/sizzle.js",
   "license": "MIT",
